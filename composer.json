@@ -1,0 +1,19 @@
+{
+  "name": "magestore/pdfinvoiceplus-lib",
+  "description": "N/A",
+  "require": {
+
+  },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "type": "library",
+  "version": "1.0.0",
+  "extra": {
+    "map": [
+      [ "/lib/internal/mPdf", "../../lib/internal/mPdf" ],
+      [ "/lib/internal/simpleHtmlDom", "../../lib/internal/simpleHtmlDom" ]
+    ]
+  }
+}
