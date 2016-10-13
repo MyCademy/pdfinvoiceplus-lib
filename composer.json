@@ -12,8 +12,8 @@
   "version": "1.0.0",
   "extra": {
     "map": [
-      [ "/lib/internal/mPdf", "../../lib/internal/mPdf" ],
-      [ "/lib/internal/simpleHtmlDom", "../../lib/internal/simpleHtmlDom" ]
+      [ "lib/internal/mPdf", "lib/internal/mPdf" ],
+      [ "lib/internal/simpleHtmlDom", "lib/internal/simpleHtmlDom" ]
     ]
   }
 }
