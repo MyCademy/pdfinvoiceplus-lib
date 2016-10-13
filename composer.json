@@ -1,5 +1,5 @@
 {
-  "name": "magestore/pdfinvoiceplus-lib",
+  "name": "MyCademy/pdfinvoiceplus-lib",
   "description": "N/A",
   "require": {
 
@@ -8,7 +8,7 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
-  "type": "library",
+  "type": "magento2-component",
   "version": "1.0.0",
   "extra": {
     "map": [
